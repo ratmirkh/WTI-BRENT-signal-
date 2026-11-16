@@ -8,7 +8,7 @@ What are WTI and Brent?
 What does the spread mean?
 - The spread = WTI − Brent (price difference per barrel). If the spread is negative, WTI is cheaper than Brent; if positive, WTI is more expensive. Changes in the spread can reflect regional supply/demand differences, transportation costs, or market events.
 
-What is a z-score (here)?
+What is a z-score ?
 - A z-score measures how many standard deviations the current spread is from its recent average. We compute a 20-day rolling mean and standard deviation (using only past data) and then:
 
   z = (current spread − recent mean) / recent std
